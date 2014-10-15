@@ -3,7 +3,7 @@
 	  // Database credentials
 	define('HOST', 'localhost');
     define('USER', 'angeltes_root');
-    define('PASS', '');
+    define('PASS', 'afsfasfd');
     define('NAME', 'angeltes_main');
 
 	class Core
